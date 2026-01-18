@@ -131,8 +131,3 @@ Key insights gained during workshop development:
 ## License
 
 This project is licensed under the terms specified in LICENSE.md.
-
-## Support
-
-For questions or issues:
-- Join the [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/)
