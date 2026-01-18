@@ -92,26 +92,17 @@ workshop-81/
 4. Test locally with `hugo server`
 5. Submit a pull request
 
-## License
-
-This project is licensed under the terms specified in LICENSE.md.
-
-## Support
-
-For questions or issues:
-- Join the [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/)
-
-## How This Workshop Was Built
+## How this workshop was built
 
 This workshop was developed using a documentation-as-code approach:
 
-- **Hugo Static Site Generator**: Chosen for fast builds, markdown support, and multilingual capabilities
-- **Hugo Learn Theme**: Provides structured navigation, search functionality, and mobile-responsive design
+- **Hugo static site generator**: Chosen for fast builds, markdown support, and multilingual capabilities
+- **Hugo learn Theme**: Provides structured navigation, search functionality, and mobile-responsive design
 - **GitHub Actions CI/CD**: Automated deployment pipeline for seamless updates
-- **Modular Content Structure**: Each workshop module is self-contained with step-by-step instructions and screenshots
-- **Bilingual Support**: English and Vietnamese content to serve diverse audiences
+- **Modular content structure**: Each workshop module is self-contained with step-by-step instructions and screenshots
+- **Bilingual support**: English and Vietnamese content to serve diverse audiences
 
-## Why This Workshop Was Created
+## Why this workshop was created
 
 The motivation behind this workshop stems from real-world challenges:
 
@@ -136,3 +127,12 @@ Key insights gained during workshop development:
 - **Visual learning**: Screenshots and diagrams significantly improve comprehension
 - **Real-world scenarios**: Practical examples resonate better than theoretical concepts
 - **Cleanup importance**: Teaching resource cleanup prevents unexpected AWS charges
+
+## License
+
+This project is licensed under the terms specified in LICENSE.md.
+
+## Support
+
+For questions or issues:
+- Join the [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj/)
