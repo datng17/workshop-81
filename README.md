@@ -40,9 +40,9 @@ The workshop implements a multi-tier architecture with:
 15. **Performance Testing** - Load testing scenarios
 16. **Cleanup** - Resource cleanup procedures
 
-## Getting Started
+## Getting started
 
-### Local Development
+### Local development
 
 1. **Install Hugo**:
    ```bash
@@ -71,7 +71,7 @@ The workshop includes GitHub Actions workflow for automated deployment to GitHub
 - **English**: Primary language
 - **Vietnamese**: Secondary language support
 
-## Project Structure
+## Project structure
 
 ```
 workshop-81/
@@ -97,7 +97,7 @@ workshop-81/
 This workshop was developed using a documentation-as-code approach:
 
 - **Hugo static site generator**: Chosen for fast builds, markdown support, and multilingual capabilities
-- **Hugo Llearn theme**: Provides structured navigation, search functionality, and mobile-responsive design
+- **Hugo learn Theme**: Provides structured navigation, search functionality, and mobile-responsive design
 - **GitHub Actions CI/CD**: Automated deployment pipeline for seamless updates
 - **Modular content structure**: Each workshop module is self-contained with step-by-step instructions and screenshots
 - **Bilingual support**: English and Vietnamese content to serve diverse audiences
@@ -112,7 +112,22 @@ The motivation behind this workshop stems from real-world challenges:
 - **Cost optimization**: Teaching efficient resource management and monitoring practices
 - **Community need**: Providing accessible, comprehensive AWS training in multiple languages
 
+## Lessons learned
+
+Key insights gained during workshop development:
+
+### Technical insights
+- **ALB complexity**: Advanced routing rules require careful planning and testing
+- **Security layers**: Proper security group configuration is critical for microservices architecture
+- **Monitoring strategy**: Proactive alerting prevents costly downtime
+- **Auto scaling tuning**: Balancing responsiveness with cost efficiency requires iteration
+
+### Educational approach
+- **Progressive complexity**: Starting simple and building complexity prevents overwhelm
+- **Visual learning**: Screenshots and diagrams significantly improve comprehension
+- **Real-world scenarios**: Practical examples resonate better than theoretical concepts
+- **Cleanup importance**: Teaching resource cleanup prevents unexpected AWS charges
+
 ## License
 
 This project is licensed under the terms specified in LICENSE.md.
-
